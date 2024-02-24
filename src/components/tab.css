@@ -1,0 +1,20 @@
+.tab {
+  background-color: white; /* Inactive background color */
+  padding: 10px 40px;
+  cursor: pointer;
+  border: 1px solid blue;
+}
+
+.active-tab {
+  background-color: blue; /* Active background color */
+}
+
+/* .custom-tab-1 {
+  background-color: red;
+  border: none;
+}
+
+.custom-tab-2 {
+  background-color: green;
+  border: none;
+} */
